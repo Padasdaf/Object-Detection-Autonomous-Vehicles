@@ -1,2 +1,2 @@
-# Object-Detection-Autonomous-Vehicles
+# Object Detection Autonomous Vehicles
 This is an object detection algorithm designed for autonomous vehicles with a 0.99 confidence score I helped program along with peers and industry mentors at Inspirit AI! The focus was on effectively harnessing the Darknet architecture of YOLO. Utilizing the libraries of TensorFlow, Keras, and PyTorch, the program leverages these advanced machine-learning techniques to identify and classify various objects on the road, ensuring safe and efficient navigation.
